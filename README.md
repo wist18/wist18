@@ -13,3 +13,5 @@ Feel free to navigate through the projects showcased here. Most, if not all, pro
 # Interested in a collaboration or have a job offer?
 
 Chances are that I am open to work. Feel free to reach out to me on LinkedIn at [https://www.linkedin.com/in/rwist/](https://www.linkedin.com/in/rwist/).
+
+![Profile views](https://gpvc.arturio.dev/yourusername)
