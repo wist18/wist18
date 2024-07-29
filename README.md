@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=wist18&abbreviated=true)
 
+[![Razvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wist18)](https://github.com/anuraghazra/github-readme-stats)
+
 # Short info about me
 
 Hello, there! My name is Razvan and I am a motivated 3rd year Bachelor Computer Science student (Honours). I have an interest for low-level programming and security vulnerabilities, and I am currently conducting a research paper related to analyzing the attack surface of speculative concurrent use-after-free (SCUAF) vulnerabilities. I like doing side projects related to programming topics that have been innovative around the time Internet was questionable to be successful (say anything from a Bash-like Shell, a FAT-16 Filesystem, Tetris and anything in between). I also like playing chess, but experience and a 50% win/lose rate has shown that I should better stick to programming as a career. 
