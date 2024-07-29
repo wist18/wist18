@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=wist18&abbreviated=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wist18&layout=compact)
+
 [![Razvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wist18)](https://github.com/anuraghazra/github-readme-stats)
 
 # Short info about me
