@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wist18&layout=compact)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wist18)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Razvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wist18)](https://github.com/anuraghazra/github-readme-stats)
 
 # Short info about me
