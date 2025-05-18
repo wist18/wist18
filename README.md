@@ -8,10 +8,6 @@ I have an interest for low-level programming and micro-architectural security. I
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wist18&layout=compact)
 
-# CV
-
-Check out my CV at [https://github.com/wist18/wist18/blob/main/CV.pdf](https://github.com/wist18/wist18/blob/main/CV.pdf)
-
 # Showcased Projects
 
 Feel free to navigate through the projects showcased here. Most, if not all, projects have a README file that explains the projects into detail.
