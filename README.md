@@ -2,7 +2,9 @@
 
 # Short info about me
 
-Hello, there! My name is Razvan, and I am a passionate first-year Master's student specializing in Cybersecurity at École Polytechnique in France. Before starting my graduate studies, I have completed a Bachelor degree in Computer Science at Vrije Universiteit Amsterdam in the Netherlands.
+Hello! I'm Razvan and I am a software engineer with more than 1 year of professional experience in software engineering. 
+
+Currently enrolled as a first-year Computer Science Master's student at Vrije Universiteit in Netherlands. Before starting my graduate studies, I have completed a Computer Science Bachelor degree at the same university.
 
 I have an interest for low-level programming and micro-architectural security. I like doing side projects related to programming topics that have been innovative around the time Internet was questionable to be successful (say anything from a Bash-like Shell, a FAT-16 Filesystem, Tetris and anything in between). I also like playing chess, but experience and a 50% win/lose rate has shown that I should better stick to programming as a career.
 
