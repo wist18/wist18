@@ -10,7 +10,7 @@ I have an interest for low-level programming and micro-architectural security. I
 
 I also created an ML algorithm capable of predicting football game results solely based on X (formerly Twitter) posts.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wist18&layout=compact)
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wist18&theme=default
 
 # Showcased Projects
 
