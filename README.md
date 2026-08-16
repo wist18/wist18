@@ -2,11 +2,13 @@
 
 # Short info about me
 
-Hello! I'm Razvan and I am a software engineer with more than 1 year of professional experience in software engineering. 
+Hello! I'm Razvan and I am a software engineer with more than 1 year of professional experience in software engineering.
 
-Currently enrolled as a first-year Computer Science Master's student at Vrije Universiteit in Netherlands. Before starting my graduate studies, I have completed a Computer Science Bachelor degree at the same university.
+Currently enrolled as a first-year Quant Finance Master's student at Vrije Universiteit in Netherlands. Before starting my graduate studies, I have completed a Computer Science Bachelor degree at the same university.
 
 I have an interest for low-level programming and micro-architectural security. I like doing side projects related to programming topics that have been innovative around the time Internet was questionable to be successful (say anything from a Bash-like Shell, a FAT-16 Filesystem, Tetris and anything in between). I also like playing chess, but experience and a 50% win/lose rate has shown that I should better stick to programming as a career.
+
+I also created an ML algorithm capable of predicting football game results solely based on X (formerly Twitter) posts.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wist18&layout=compact)
 
@@ -16,4 +18,4 @@ Feel free to navigate through the projects showcased here. Most, if not all, pro
 
 # Connect with me
 
-Feel free to reach out to me on LinkedIn at [https://www.linkedin.com/in/rwist/](https://www.linkedin.com/in/rwist/).
+Feel free to reach out to me on LinkedIn at [https://www.linkedin.com/in/rwist/](https://www.linkedin.com/in/rwist/). Currently looking to transition into (quant) trading roles via internships or grad positions.
