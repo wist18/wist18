@@ -10,7 +10,9 @@ I have an interest for low-level programming and micro-architectural security. I
 
 I also created an ML algorithm capable of predicting football game results solely based on X (formerly Twitter) posts.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wist18&theme=default)
+*Currently looking to transition into (quant) trading roles via internships or grad positions.*
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wist18&theme=github)
 
 # Showcased Projects
 
@@ -18,4 +20,4 @@ Feel free to navigate through the projects showcased here. Most, if not all, pro
 
 # Connect with me
 
-Feel free to reach out to me on LinkedIn at [https://www.linkedin.com/in/rwist/](https://www.linkedin.com/in/rwist/). Currently looking to transition into (quant) trading roles via internships or grad positions.
+Feel free to reach out to me on LinkedIn at [https://www.linkedin.com/in/rwist/](https://www.linkedin.com/in/rwist/).
