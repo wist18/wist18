@@ -12,7 +12,7 @@ I also created an ML algorithm capable of predicting football game results solel
 
 *Currently looking to transition into (quant) trading roles via internships or grad positions.*
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wist18&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wist18&theme=github&exclude=html)
 
 # Showcased Projects
 
